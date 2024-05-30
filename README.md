@@ -2,7 +2,7 @@
   <a href="mailto:souravrajput2760@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/sourav_rjpt/"><img src="https://img.shields.io/badge/souravrjpt-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/justbeingsourav/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://https://www.hackerrank.com/profile/CseC_21b0101085"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/sourav_rjpt/"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
   <a href="https://www.codechef.com/users/souravrjpt" ><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/souravrajput2760" ><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 </p>
