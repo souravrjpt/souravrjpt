@@ -64,26 +64,24 @@
 
 <br>
 
-<a href="https://github.com/souravrjpt/github-readme-streak-stats">
-    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=souravrjpt&theme=dark&hide_border=true&background=0D1117&stroke=0000"/></p>
+<div style="display: flex; justify-content: center; ">
+  <a href="https://github.com/souravrjpt/github-readme-streak-stats" >
+    <img style="width:50%" src="https://github-readme-streak-stats.herokuapp.com/?user=souravrjpt&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
-  
-  <br>
-
-<p align="center"><a href="https://github.com/souravrjpt/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=souravrjpt&title_color=FA8B00&bg_color=0D1117&hide_border=true&text_color=9D9D9D&hide_rank=true&icon_color=FA8B00&show_icons=true&hide_title=true&line_height=30&count_private=true"/>
- </a></p>
- 
- <br>
+  <a href="https://github.com/souravrjpt/github-readme-stats">
+    <img  style="width:38%" src="https://github-readme-stats.vercel.app/api?username=souravrjpt&title_color=FA8B00&bg_color=0D1117&hide_border=true&text_color=9D9D9D&hide_rank=true&icon_color=FA8B00&show_icons=true&hide_title=true&line_height=30&count_private=true"/>
+  </a>
+</div>
 
 <p align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=souravrjpt&theme=flat&column=7&margin-w=10" alt="logo" height="160" />
-  <br>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=souravrjpt" width="50%"/> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souravrjpt" width="50%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=souravrjpt" width="40%"/> 
 </p>
-<br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravrjpt&theme=dark&hide_border=true&background=0D1117&stroke=0000" width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souravrjpt" width="40%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=souravrjpt&theme=flat&column=7&margin-w=6" alt="logo" width="40%" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravrjpt&theme=dark&hide_border=true&background=0D1117&stroke=0000" width="30%">
 </p>
